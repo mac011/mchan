@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+p{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+span.highlight{
+  background-color: #a3c2c2
+}
+
+span.intro-heading.text-uppercase.highlight{
+  padding:0px;
+  font-size: 52px;
+}
+
+#mainNav{
+    background-color:#a3c2c2;
+    height: 50px;
+  }
+
+header.masthead {
+  padding: 100px;
+}
+
+div.call-to-action.bg-dark{
+  height: 10em;
+  background-color: #a3c2c2;
+  padding: 3em;
+
+}
+
+a.btn{
+  background-color: #a3c2c2;
+}
+
+i.fa.fa-phone.fa-3x.sr-contact{
+  color: white;
+  font-size: 72px;
+}
+
+i.fa.fa-envelope-o.fa-3x.sr-contact{
+  color: white;
+  font-size: 72px;}
+
+#subtitle{
+  font-style: bold;
+  font-variant: small-caps;
+}
